@@ -1,0 +1,5 @@
+C:\Users\Swornim Nepal\Documents\Visual Studio 2012\Projects\WordExcel\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Swornim Nepal\Documents\Visual Studio 2012\Projects\WordExcel\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Swornim Nepal\Documents\Visual Studio 2012\Projects\WordExcel\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Swornim Nepal\Documents\Visual Studio 2012\Projects\WordExcel\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Swornim Nepal\Documents\Visual Studio 2012\Projects\WordExcel\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

@@ -1,0 +1,7 @@
+C:\Users\Swornim Nepal\Documents\Visual Studio 2012\Projects\WordExcel\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\Swornim Nepal\Documents\Visual Studio 2012\Projects\WordExcel\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Swornim Nepal\Documents\Visual Studio 2012\Projects\WordExcel\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Swornim Nepal\Documents\Visual Studio 2012\Projects\WordExcel\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Swornim Nepal\Documents\Visual Studio 2012\Projects\WordExcel\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\Swornim Nepal\Documents\Visual Studio 2012\Projects\WordExcel\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\Swornim Nepal\Documents\Visual Studio 2012\Projects\WordExcel\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
